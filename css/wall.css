@@ -2,3 +2,11 @@
 {
 	max-width: 768px;
 }
+
+.image { 
+    float:left;
+    }
+    
+img {
+    float:left;
+    clear:left;}
